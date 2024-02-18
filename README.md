@@ -1,5 +1,8 @@
-### Hi there 👋
-
+### Hey there 👋
+- ⚡ I'm Sameer Arjun S, a graduate Robotics student at the University of Maryland, College Park
+- 💬 Enthuisthatic about robotics and automation systems
+- 🌱 Actively working on planning, perception and control of robotic projects
+- 📫 Reach me at  ssarjun@umd.edu 
 <!--
 **Sameer-Arjun-S/Sameer-Arjun-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
